@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Machine Learning BLR"
+title                    : "Viraj Ghorpade"
 title_separator          : "-"
 name                     : &name "MLBLR" # &name is a YAML anchor which can be *referenced later
 description              : &description "We are a group of Machine Learning and Data Science enthusiasts. We meet to discuss research papers and have featured talks by experts in industry and academia. The purpose is to build a community around students, researchers, corporations in Machine Learning and Data Science. ."
